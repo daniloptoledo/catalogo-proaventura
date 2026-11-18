@@ -18,6 +18,10 @@ Um catálogo web onde o revendedor aprovado consulta produtos, vê o preço de r
 monta a cotação e recebe um comprovante em PDF da solicitação. A equipe tem um painel interno para
 aprovar revendedores, acompanhar as cotações e preparar a proposta comercial.
 
+## Resultado
+
+A cotação caiu de **mais de 1 hora para 10 a 15 minutos** (cerca de 80% menos tempo), comparando o mesmo atendimento antes e depois do portal.
+
 ## Arquitetura
 
 ```mermaid
